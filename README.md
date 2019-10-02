@@ -8,6 +8,7 @@ Requirements
 -------------
 
 CEP (Community Expansion Pack): https://neverwintervault.org/cep
+
 CNR: https://neverwintervault.org/project/nwn1/script/craftable-natural-resources-cnr
 
 Usage
